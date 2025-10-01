@@ -1,1 +1,15 @@
 
+{
+  "name": "minion-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for tracking payouts and managing roles.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
